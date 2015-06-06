@@ -1,2 +1,2 @@
 # TheGame
-A game not really but it works like which I consider to be a game.
+A game not really but it works like one which I consider to be a game.
